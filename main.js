@@ -1,4 +1,4 @@
-import {sum} from './module';
+import {sum} from './module.js';
 
 const newSum = sum(5,5);
 
